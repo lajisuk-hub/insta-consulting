@@ -6,3 +6,6 @@ out
 .vercel
 *.log
 설치값-메모.txt
+
+.vercel
+.env*
